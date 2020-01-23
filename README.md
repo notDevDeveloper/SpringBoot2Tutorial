@@ -1,2 +1,3 @@
-# web-development-learning
-This repository is it for me to learn Web Development.
+# Spring Boot 2 Tutorial
+
+This is the repository to learn Spring Boot overview for me.
