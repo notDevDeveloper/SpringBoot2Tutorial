@@ -32,7 +32,6 @@ public class ItemService {
     @Transactional
     public void update(Item item) {
         itemMapper.update(item);
-
     }
 
     @Transactional
